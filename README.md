@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently learning and Exploring Machine Learning. <br>I am Competitive Programmer , have good rating across many top platforms.<br>
+I'm Currently learning and Exploring Machine Learning. <br>
 
 
 # 💻 Tech Stack:
