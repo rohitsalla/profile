@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently learning and Exploring Machine Learning. <br>
+ML Contributor at @unifyai <br>
 
 
 # 💻 Tech Stack:
