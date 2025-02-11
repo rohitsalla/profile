@@ -1,5 +1,3 @@
-# 💫 About Me:
-ML Contributor at @unifyai <br>
 
 
 # 💻 Tech Stack:
